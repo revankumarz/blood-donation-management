@@ -1,0 +1,37 @@
+# Test and temporary files
+test_*.php
+populate_sample_data.php
+check_inventory.php
+fix_admin_password.php
+register_debug.php
+
+# PDF files
+*.pdf
+
+# Environment and config (uncomment if you want to exclude config)
+# config.php
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sql.backup
+*.sqlite
+
+# Backup files
+*.bak
+*~
